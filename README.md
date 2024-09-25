@@ -15,7 +15,7 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 
 | ![Metrics](https://github-readme-stats.vercel.app/api?username=Incognitoanshh&show_icons=true&theme=dark) |
 | --- |
-| **GitHub Contributions Calendar**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Incognitoanshh&theme=dark) |
+|  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Incognitoanshh&theme=dark) |
 
 ---
 
