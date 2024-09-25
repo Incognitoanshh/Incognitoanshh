@@ -21,17 +21,18 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 
 ## 🔧 Skills
 <p align="center">
+    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
     <img src="https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
-**Currently Learning:** Rust, React
+**Currently Learning:** ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
