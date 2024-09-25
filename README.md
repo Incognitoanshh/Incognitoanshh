@@ -6,9 +6,16 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 
 ## 📊 GitHub Stats and Activity
 
-| ![Metrics](https://metrics.lecoq.io/Amritanshu1403) |
+| ![Metrics](https://metrics.lecoq.io/Incognitoanshh) |
 | --- |
-| **GitHub Contributions Calendar**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amritanshu1403&theme=dark) |
+| **GitHub Contributions Calendar**: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Incognitoanshh&theme=dark) |
+
+---
+
+## 🚀 PageSpeed Insights
+| Performance | Accessibility | Best Practices | SEO |
+| --- | --- | --- | --- |
+| ![Performance](https://img.shields.io/badge/Performance-97%25-brightgreen) | ![Accessibility](https://img.shields.io/badge/Accessibility-100%25-brightgreen) | ![Best Practices](https://img.shields.io/badge/Best%20Practices-100%25-brightgreen) | ![SEO](https://img.shields.io/badge/SEO-100%25-brightgreen) |
 
 ---
 
@@ -30,9 +37,11 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 
 ## 📈 Coding Activity and Languages
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritanshu1403&layout=compact&theme=dark" alt="Languages Used" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritanshu1403&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitoanshh&layout=compact&theme=dark&langs_count=10&hide=css,html&exclude_repo=pinterest-automation" alt="Most Used Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Incognitoanshh&theme=dark" alt="GitHub Streak" />
 </p>
+
+**Most Used Language:** ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white)
 
 ---
 
