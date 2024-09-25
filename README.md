@@ -23,16 +23,16 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 ## 📫 Connect with Me
 <p align="center">
     <a href="https://www.instagram.com/__annnshh__" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius: 50%; width: 40px; height: 40px;" />
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://discord.gg/vRzw9vSw" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord" style="border-radius: 50%; width: 40px; height: 40px;" />
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="https://web.telegram.org/k/" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-%233DDC84.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=3DDC84" alt="Telegram" style="border-radius: 50%; width: 40px; height: 40px;" />
+        <img src="https://img.shields.io/badge/Telegram-%233DDC84.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="https://www.linkedin.com/in/amritanshu1403" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="border-radius: 50%; width: 40px; height: 40px;" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
 
