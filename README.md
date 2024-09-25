@@ -9,8 +9,10 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 ![CSS](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white) 
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB) 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=flat&logo=kali-linux&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat&logo=amazonaws&logoColor=white)
 
-**Currently Learning:** React
+**Currently Learning:** Rust, React
 
 ## 📫 Connect with Me
 Feel free to reach out on any of the platforms below:
