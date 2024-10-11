@@ -72,6 +72,7 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 | **Credit Card Scraper** | Extracts credit card information from specified online sources for educational purposes. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
 | **To-Do List Application** | A simple app to manage tasks efficiently, allowing you to add, delete, and mark tasks as completed. | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white) |
 | **Instagram Automation Master** | Automates posting, engagement, and data scraping on Instagram. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
+| **Myportfolio * | about myself  it contain details etc.... | ![Reactjs](https://img.shields.io/badge/React-black?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
