@@ -67,6 +67,8 @@ Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data a
 
 | Project Name  | Description  | Language  |
 | ------------- | ------------- | --------- |
+| **Decentralized Identity Verification** | Securely verifies user identities using blockchain and smart contracts for tamper-proof validation. | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=solidity&logoColor=white) |
+
 | **Sentiment Analysis** | Analyzes emotional tone using NLP, classifying text as positive, negative, or neutral. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
 | **Pinterest Automation with Selenium** | Automates Pinterest activities and scraping for efficient data collection. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
 | **Credit Card Scraper** | Extracts credit card information from specified online sources for educational purposes. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
