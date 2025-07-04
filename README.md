@@ -1,83 +1,83 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Hello, I'm Amritanshu
 
-Hello! I'm **Amritanshu**, a passionate developer with a keen interest in data analysis and automation. Below, you'll find a snapshot of my skills, coding habits, and my favorite projects!
+I’m a passionate Full Stack Developer with strong interests in backend systems, cloud-native architectures, and automation. Currently diving deep into **Spring Boot & Maven**, I love building scalable systems and solving real-world problems with clean code and modern tech.
 
----
-
-## 🚀 PageSpeed Insights
-| Performance | Accessibility | Best Practices | SEO |
-| --- | --- | --- | --- |
-| ![Performance](https://img.shields.io/badge/Performance-97%25-brightgreen) | ![Accessibility](https://img.shields.io/badge/Accessibility-100%25-brightgreen) | ![Best Practices](https://img.shields.io/badge/Best%20Practices-100%25-brightgreen) | ![SEO](https://img.shields.io/badge/SEO-100%25-brightgreen) |
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://amritanshu143.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/💡%20LeetCode-Profile-orange)](https://leetcode.com/u/amritanshh123/)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue)](https://www.linkedin.com/in/amritanshu1403/)
+[![GitHub](https://img.shields.io/github/followers/Incognitoanshh?style=social)](https://github.com/Incognitoanshh)
 
 ---
 
-## 📊 GitHub Stats and Activity
+## 🚀 Projects That Define Me
 
-| ![Metrics](https://github-readme-stats.vercel.app/api?username=Incognitoanshh&show_icons=true&theme=dark) |
-| --- |
-|  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Incognitoanshh&theme=dark) |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 **Decentralized Identity Verification** | Built a secure DApp for verifying identity using **Ethereum**, **IPFS**, and **Smart Contracts** | React, Solidity, Hardhat, IPFS |
+| 😊 **Sentiment Analysis Web App** | Real-time NLP-based sentiment detection using **CardiffNLP Roberta** | Flask, Python, Roberta, REST API |
+| 📌 **Pinterest Automation** | Automated pin creation and scraping on Pinterest | Python, Selenium, PyTest |
+| 🎬 **IMDb Clone** | Search, filter, and watchlist movies with TMDB API | React, Tailwind, TMDB API |
+| 🧠 **Instagram Automation Master** | Automate posting, engagement, scraping | Python, InstaPy, Bot UI |
+| 📊 **Credit Card Scraper (Educational)** | Extract data for security analysis & learning | Python, Scrapy |
+| 📁 **BookZone** | Full CRUD + File Upload App using **Spring Boot** & **PostgreSQL** | Java, Spring Boot, Maven, Swagger, PostgreSQL |
 
 ---
 
-## 🔧 Skills
+## 📈 GitHub Analytics
+
+![Amritanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Incognitoanshh&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitoanshh&layout=compact&theme=dark)
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Languages:**  
+`Java` `Python` `JavaScript` `TypeScript` `Solidity (basic)` `HTML/CSS`
+
+**Frameworks & Libraries:**  
+`React.js` `Spring Boot` `Flask` `Tailwind CSS` `Bootstrap` `Web3.js`
+
+**Cloud & DevOps:**  
+`AWS` `Docker` `Kubernetes` `Git` `CI/CD` `IBM Cloud`
+
+**Tools:**  
+`VS Code` `Postman` `Swagger UI` `PgAdmin` `Netlify` `GitHub Actions`
+
+---
+
+## 🎯 Currently Focused On
+
+- 📦 Spring Boot + Maven Development  
+- 📁 File Uploads, Swagger Docs, PostgreSQL  
+- ☁️ Cloud Deployment with Docker/Kubernetes  
+- 💻 Backend System Design & API Architecture  
+- 🤖 Building automation tools using Python
+
+---
+
+## 📚 Certifications & Highlights
+
+- 🟦 **IBM & NASSCOM Cloud Internship (2025)** – Docker, K8s, Azure  
+- 🟨 **AWS Cloud Foundations (2025)** – Core Services, IAM, S3, EC2  
+- 🟪 **Microsoft Certified** – Azure Fundamentals + AI Fundamentals  
+- 🟩 **Scaler Academy** – React + TypeScript  
+- 🟧 **Infosys Springboard** – EDA with Python  
+
+---
+
+## 📫 Let's Connect!
+
+If you’re building something exciting, want to collaborate, or just want to chat tech — I’m open!
+
 <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-    <img src="https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <a href="https://www.instagram.com/__annnshh__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/vRzw9vSw" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/amritanshh123/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/amritanshu1403" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-**Currently Learning:** ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ---
 
-## 📈 Coding Activity and Languages
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitoanshh&layout=compact&theme=dark&langs_count=10&hide=css,html&exclude_repo=pinterest-automation" alt="Most Used Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Incognitoanshh&theme=dark" alt="GitHub Streak" />
-</p>
+> *"The best way to predict the future is to build it." – Alan Kay*
 
-**Most Used Language:** ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white)
-
----
-
-## 📫 Connect with Me
-<p align="center">
-    <a href="https://www.instagram.com/__annnshh__" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://discord.gg/vRzw9vSw" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://web.telegram.org/k/" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-%233DDC84.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://www.linkedin.com/in/amritanshu1403" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</p>
-
----
-
-## 🌟 Projects
-
-| Project Name  | Description  | Language  |
-| ------------- | ------------- | --------- |
-| **Decentralized Identity Verification** | Securely verifies user identities using blockchain and smart contracts for tamper-proof validation. | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=solidity&logoColor=white) |
-| **Sentiment Analysis** | Analyzes emotional tone using NLP, classifying text as positive, negative, or neutral. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
-| **Pinterest Automation with Selenium** | Automates Pinterest activities and scraping for efficient data collection. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
-| **Credit Card Scraper** | Extracts credit card information from specified online sources for educational purposes. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
-| **To-Do List Application** | A simple app to manage tasks efficiently, allowing you to add, delete, and mark tasks as completed. | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white) |
-| **Instagram Automation Master** | Automates posting, engagement, and data scraping on Instagram. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) |
-| **My Portfolio** | A personal portfolio website showcasing projects, skills, and achievements. | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white) |
-
----
-
-## 🤝 Let's Collaborate!
-I’m always open to collaborating on interesting projects or contributing to open-source initiatives. Feel free to connect with me if you'd like to work on something together!
-
----
