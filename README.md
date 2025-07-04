@@ -13,6 +13,7 @@ I’m a passionate Full Stack Developer with strong interests in backend systems
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| 🏠 **AWS-Powered Real Estate Platform** | Full-stack rental platform deployed on AWS (EC2, RDS, S3, Cognito). Frontend in Next.js with Tailwind & Mapbox; backend in Node.js with Prisma ORM | Next.js, Node.js,           AWS, PostgreSQL, Prisma, Tailwind, Mapbox |
 | 🔐 **Decentralized Identity Verification** | Built a secure DApp for verifying identity using **Ethereum**, **IPFS**, and **Smart Contracts** | React, Solidity, Hardhat, IPFS |
 | 😊 **Sentiment Analysis Web App** | Real-time NLP-based sentiment detection using **CardiffNLP Roberta** | Flask, Python, Roberta, REST API |
 | 📌 **Pinterest Automation** | Automated pin creation and scraping on Pinterest | Python, Selenium, PyTest |
@@ -23,36 +24,43 @@ I’m a passionate Full Stack Developer with strong interests in backend systems
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Insights
 
-![Amritanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Incognitoanshh&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitoanshh&layout=compact&theme=dark)
-
----
-
-## 🛠️ Tech Stack & Skills
-
-**Languages:**  
-`Java` `Python` `JavaScript` `TypeScript` `Solidity (basic)` `HTML/CSS`
-
-**Frameworks & Libraries:**  
-`React.js` `Spring Boot` `Flask` `Tailwind CSS` `Bootstrap` `Web3.js`
-
-**Cloud & DevOps:**  
-`AWS` `Docker` `Kubernetes` `Git` `CI/CD` `IBM Cloud`
-
-**Tools:**  
-`VS Code` `Postman` `Swagger UI` `PgAdmin` `Netlify` `GitHub Actions`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Incognitoanshh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitoanshh&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="48%" />
+</p>
 
 ---
 
-## 🎯 Currently Focused On
+## 🛠️ Tech Stack & Toolset
 
-- 📦 Spring Boot + Maven Development  
-- 📁 File Uploads, Swagger Docs, PostgreSQL  
-- ☁️ Cloud Deployment with Docker/Kubernetes  
-- 💻 Backend System Design & API Architecture  
-- 🤖 Building automation tools using Python
+### 🧑‍💻 Languages
+`Java` &nbsp;|&nbsp; `Python` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `HTML/CSS` &nbsp;|&nbsp; `Solidity (Basics)`
+
+### ⚙️ Backend & Frameworks
+`Spring Boot` &nbsp;|&nbsp; `Node.js` &nbsp;|&nbsp; `Express.js` &nbsp;|&nbsp; `Flask` &nbsp;|&nbsp; `Maven` &nbsp;|&nbsp; `JWT` &nbsp;|&nbsp; `Swagger UI`
+
+### 🧠 Frontend & UI
+`React.js` &nbsp;|&nbsp; `Tailwind CSS` &nbsp;|&nbsp; `Bootstrap` &nbsp;|&nbsp; `Framer Motion` &nbsp;|&nbsp; `Redux Toolkit`
+
+### ☁️ Cloud, DevOps & CI/CD
+`Amazon AWS (EC2, S3, RDS, Cognito)` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Kubernetes` &nbsp;|&nbsp; `GitHub Actions` &nbsp;|&nbsp; `Netlify` &nbsp;|&nbsp; `IBM Cloud`
+
+### 🛢️ Databases & ORM
+`PostgreSQL` &nbsp;|&nbsp; `MySQL` &nbsp;|&nbsp; `MongoDB` &nbsp;|&nbsp; `Prisma` &nbsp;|&nbsp; `JPA`
+
+### 🧰 Tools & Utilities
+`VS Code` &nbsp;|&nbsp; `Postman` &nbsp;|&nbsp; `PgAdmin` &nbsp;|&nbsp; `Swagger` &nbsp;|&nbsp; `Figma` &nbsp;|&nbsp; `Mapbox`
+
+---
+
+## 🧩 Currently Exploring
+- ☕ **Spring Boot + Maven Advanced**
+- 📁 File Upload, DTO + Validation + Exception Handling
+- 🌐 AWS-Based Deployment with Docker, S3, EC2
+- 🧠 System Design & Scalable Architecture
+- 💻 Clean Code + SOLID Principle Practice
 
 ---
 
