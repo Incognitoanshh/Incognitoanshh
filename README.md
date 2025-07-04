@@ -7,6 +7,13 @@ I’m a passionate Full Stack Developer with strong interests in backend systems
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue)](https://www.linkedin.com/in/amritanshu1403/)
 [![GitHub](https://img.shields.io/github/followers/Incognitoanshh?style=social)](https://github.com/Incognitoanshh)
 
+
+---
+
+## 🏆 GitHub Trophy
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Incognitoanshh&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🚀 Projects That Define Me
