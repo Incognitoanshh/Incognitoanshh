@@ -34,7 +34,7 @@ I’m a passionate Full Stack Developer with strong interests in backend systems
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/Incognitoanshh?template=classic&isocalendar=1&languages=1&base=header%2Cactivity%2Ccommunity%2Crepositories&isocalendar.duration=full-year&languages.limit=8&config.timezone=Asia%2FKolkata)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=Incognitoanshh&show_icons=true&theme=algolia)
 
 ---
 
