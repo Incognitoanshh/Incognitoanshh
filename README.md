@@ -33,25 +33,28 @@ I’m a passionate Full Stack Developer with strong interests in backend systems
 
 ---
 
+
+
 ## 🛠️ Tech Stack & Toolset
 
-### 🧑‍💻 Languages
-`Java` &nbsp;|&nbsp; `Python` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `HTML/CSS` &nbsp;|&nbsp; `Solidity (Basics)`
+### 👨‍💻 Languages
+🟦 `Java` &nbsp;|&nbsp; 🐍 `Python` &nbsp;|&nbsp; ⚡ `JavaScript` &nbsp;|&nbsp; 🟨 `TypeScript` &nbsp;|&nbsp; 🌐 `HTML/CSS` &nbsp;|&nbsp; ⛓ `Solidity (Basics)`
 
-### ⚙️ Backend & Frameworks
-`Spring Boot` &nbsp;|&nbsp; `Node.js` &nbsp;|&nbsp; `Express.js` &nbsp;|&nbsp; `Flask` &nbsp;|&nbsp; `Maven` &nbsp;|&nbsp; `JWT` &nbsp;|&nbsp; `Swagger UI`
+### 🔧 Backend & Frameworks
+☕ `Spring Boot` &nbsp;|&nbsp; 🟩 `Node.js` &nbsp;|&nbsp; ⚙️ `Express.js` &nbsp;|&nbsp; 🐍 `Flask` &nbsp;|&nbsp; 📦 `Maven` &nbsp;|&nbsp; 🔐 `JWT` &nbsp;|&nbsp; 📚 `Swagger UI`
 
-### 🧠 Frontend & UI
-`React.js` &nbsp;|&nbsp; `Tailwind CSS` &nbsp;|&nbsp; `Bootstrap` &nbsp;|&nbsp; `Framer Motion` &nbsp;|&nbsp; `Redux Toolkit`
+### 🎨 Frontend & UI
+⚛️ `React.js` &nbsp;|&nbsp; 💨 `Tailwind CSS` &nbsp;|&nbsp; 🎨 `Bootstrap` &nbsp;|&nbsp; 🎞 `Framer Motion` &nbsp;|&nbsp; 🚦 `Redux Toolkit`
 
 ### ☁️ Cloud, DevOps & CI/CD
-`Amazon AWS (EC2, S3, RDS, Cognito)` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Kubernetes` &nbsp;|&nbsp; `GitHub Actions` &nbsp;|&nbsp; `Netlify` &nbsp;|&nbsp; `IBM Cloud`
+☁️ `Amazon AWS (EC2, S3, RDS, Cognito)` &nbsp;|&nbsp; 🐳 `Docker` &nbsp;|&nbsp; ☸️ `Kubernetes` &nbsp;|&nbsp; 🔄 `GitHub Actions` &nbsp;|&nbsp; 🌍 `Netlify` &nbsp;|&nbsp; 🧠 `IBM Cloud`
 
 ### 🛢️ Databases & ORM
-`PostgreSQL` &nbsp;|&nbsp; `MySQL` &nbsp;|&nbsp; `MongoDB` &nbsp;|&nbsp; `Prisma` &nbsp;|&nbsp; `JPA`
+🐘 `PostgreSQL` &nbsp;|&nbsp; 🐬 `MySQL` &nbsp;|&nbsp; 🍃 `MongoDB` &nbsp;|&nbsp; 🧬 `Prisma` &nbsp;|&nbsp; 📖 `JPA`
 
 ### 🧰 Tools & Utilities
-`VS Code` &nbsp;|&nbsp; `Postman` &nbsp;|&nbsp; `PgAdmin` &nbsp;|&nbsp; `Swagger` &nbsp;|&nbsp; `Figma` &nbsp;|&nbsp; `Mapbox`
+🧠 `VS Code` &nbsp;|&nbsp; 🔎 `Postman` &nbsp;|&nbsp; 🧾 `PgAdmin` &nbsp;|&nbsp; 📘 `Swagger` &nbsp;|&nbsp; 🎨 `Figma` &nbsp;|&nbsp; 🗺 `Mapbox`
+
 
 ---
 
