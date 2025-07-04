@@ -31,6 +31,17 @@ I’m a passionate Full Stack Developer with strong interests in backend systems
 
 ---
 
+
+## 📊 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/Incognitoanshh?template=classic&isocalendar=1&languages=1&base=header%2Cactivity%2Ccommunity%2Crepositories&isocalendar.duration=full-year&languages.limit=8&config.timezone=Asia%2FKolkata)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Incognitoanshh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📈 GitHub Insights
 
 <p align="center">
